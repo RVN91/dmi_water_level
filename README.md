@@ -6,11 +6,11 @@ Downloads sea water levels from DMI's sensor network.
 
 ### Input
 
-station:    Station number of the station from which the data is downloaded.
-starttime:  Start date of the requested data in this date format 'dd-mm-yyyy'
-endtime:    Start date of the requested data in this date format 'dd-mm-yyyy'
-sleep_int:  Interval between downloads of records (optional, default 50)
-sleep_time: Pause in seconds between each sleep_int (optional, default 5).
+* station:    Station number of the station from which the data is downloaded.
+* starttime:  Start date of the requested data in this date format 'dd-mm-yyyy'
+* endtime:    Start date of the requested data in this date format 'dd-mm-yyyy'
+* sleep_int:  Interval between downloads of records (optional, default 50)
+* sleep_time: Pause in seconds between each sleep_int (optional, default 5).
 
 ### User guide
 Type the following command into the terminal:
